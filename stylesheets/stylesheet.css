@@ -604,6 +604,8 @@ td {
   font-weight: 300;
   text-align: center;
   border: 0px solid #ebebeb;
+  vertical-align: middle;
+  padding: 1px;
 }
 
 form {
